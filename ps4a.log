@@ -1,0 +1,7 @@
+﻿  CircularBuffer.cpp
+C:\COMP_2040\ps4a\ps4a\CircularBuffer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  test.cpp
+  Generating Code...
+C:\COMP_2040\ps4a\ps4a\CircularBuffer.cpp(77): warning C4715: 'CircularBuffer::dequeue': not all control paths return a value
+C:\COMP_2040\ps4a\ps4a\CircularBuffer.cpp(91): warning C4715: 'CircularBuffer::peek': not all control paths return a value
+  ps4a.vcxproj -> C:\COMP_2040\ps4a\Debug\ps4a.exe
